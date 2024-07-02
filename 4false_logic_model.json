@@ -1,0 +1,1 @@
+{"dataset_name: GOSSIPCOPGEN, model_name: flan-t5-xl, evi_flag: False, mode: logics, class: binary": ["acc: 0.200799, macro_f1: 0.191030, macro_precision: 0.410806, macro_recall: 0.460841", "acc: 0.200799, macro_f1: 0.191030, macro_precision: 0.410806, macro_recall: 0.460841"]}
